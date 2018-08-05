@@ -19,7 +19,7 @@ public class Hello extends HttpServlet {
 
         OutputStream os=resp.getOutputStream();
         PrintWriter pw=new PrintWriter(os);
-        pw.println("hello xixi");
+        pw.println("hello hah");
         pw.close();
     }
 
