@@ -3,5 +3,6 @@
  */
 public class Test {
     A
+    C
     B
 }
